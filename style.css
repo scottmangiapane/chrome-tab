@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #202020;
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    line-height: 120px;
+}
+
+p {
+    color: #727272;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.center-items {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.center-text {
+    text-align: center;
+}
